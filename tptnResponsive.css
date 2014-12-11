@@ -1,6 +1,6 @@
 
 /***** Desktop *****/
-@media (min-width: 1qqq200px) {
+@media (min-width: 1200px) {
 	/* Header */
 	#header{height:214px;}
 	#header #nav-row {height:45px;}
